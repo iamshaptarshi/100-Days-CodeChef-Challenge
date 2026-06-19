@@ -24,7 +24,7 @@ For the next **100 days**, I will solve coding problems on **CodeChef** and uplo
 
 ## 🎯 Challenge Rules
 
-✅ Solve at least one problem every day
+✅ Solve 5 problems every day
 
 ✅ Push solutions to GitHub daily
 
@@ -53,10 +53,9 @@ GNU G++17
 | Day     | Status |
 | ------- | ------ |
 | Day 01  | ✅      |
-| Day 02  | ✅      |
+| Day 02  | ❎      |
 | Day 03  | ✅      |
 | Day 04  | ✅      |
-| Day 05  | ✅      |
 | ...     | 🔄     |
 | Day 100 | 🎯     |
 
