@@ -53,7 +53,7 @@ GNU G++17
 | Day     | Status |
 | ------- | ------ |
 | Day 01  | ✅      |
-| Day 02  | ❎      |
+| Day 02  | ❎ (Semester Final)      |
 | Day 03  | ✅      |
 | Day 04  | ✅      |
 | ...     | 🔄     |
